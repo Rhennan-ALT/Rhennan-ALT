@@ -14,7 +14,8 @@ Atualmente desenvolvendo projetos que conectam educação, comunidade e inovaç�
 
 ---
 
-🚀 Projeto em Destaque
+## 🚀 Projeto em Destaque
+
 🦖 Gojira Wiki
 
 Plataforma interativa inspirada no universo do Godzilla, focada em exploração de informações, organização de conteúdo e experiência do usuário.
