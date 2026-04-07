@@ -21,7 +21,9 @@ Atualmente desenvolvendo projetos que conectam educação, comunidade e inovaç�
 Plataforma interativa inspirada no universo do Godzilla, focada em exploração de informações, organização de conteúdo e experiência do usuário.
 
 🎯 Objetivo: Centralizar e apresentar informações de forma interativa
+
 📚 Foco: Aprendizado, organização de dados e UI/UX
+
 🌐 Diferencial: Integração com APIs externas
 
 ---
