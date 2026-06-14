@@ -1,6 +1,6 @@
-# Olá, eu sou Rhennan Oliveira  
+--- 
 
- Desenvolvedor Full Stack em formação  
+ ## Desenvolvedor Full Stack em formação  
  Criando soluções com foco em impacto social e educação  
 
 ---
