@@ -1,30 +1,20 @@
-# 👋 Olá, eu sou Rhennan Oliveira  
+# Olá, eu sou Rhennan Oliveira  
 
-💻 Desenvolvedor Full Stack em formação  
-🚀 Criando soluções com foco em impacto social e educação  
-
----
-
-## 🎯 Sobre mim
-
-Sou apaixonado por tecnologia, narrativa interativa e soluções que geram impacto real.  
-Atualmente desenvolvendo projetos que conectam educação, comunidade e inovação.
-
-✨ Transformando ideias em código.
+ Desenvolvedor Full Stack em formação  
+ Criando soluções com foco em impacto social e educação  
 
 ---
-
-## 🚀 Projeto em Destaque
+## Projeto em Destaque
 
 🦖 Gojira Wiki
 
 Plataforma interativa inspirada no universo do Godzilla, focada em exploração de informações, organização de conteúdo e experiência do usuário.
 
-🎯 Objetivo: Centralizar e apresentar informações de forma interativa
+Objetivo: Centralizar e apresentar informações de forma interativa
 
-📚 Foco: Aprendizado, organização de dados e UI/UX
+Foco: Aprendizado, organização de dados e UI/UX
 
-🌐 Diferencial: Integração com APIs externas
+Diferencial: Integração com APIs externas
 
 ---
 
@@ -43,19 +33,19 @@ Plataforma interativa inspirada no universo do Godzilla, focada em exploração 
 
 ---
 
-## 📊 Estatísticas
+## Estatísticas
 
 ![Stats](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Rhennan-ALT&theme=github_dark)
 
 ---
 
-## 🔥 Contribuição
+## Contribuição
 
 ![GitHub Streak](https://streak-stats.demolab.com?user=Rhennan-ALT&theme=tokyonight&hide_border=true)
 
 ---
 
-## 📫 Como me encontrar
+## Como me encontrar
 
 📧 E-mail: rhennan006@gmail.com
 
