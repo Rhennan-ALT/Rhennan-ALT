@@ -5,19 +5,6 @@
  Criando soluções com foco em impacto social e educação  
 
 ---
-## Projeto em Destaque
-
-🦖 Gojira Wiki
-
-Plataforma interativa inspirada no universo do Godzilla, focada em exploração de informações, organização de conteúdo e experiência do usuário.
-
-Objetivo: Centralizar e apresentar informações de forma interativa
-
-Foco: Aprendizado, organização de dados e UI/UX
-
-Diferencial: Integração com APIs externas
-
----
 
 ## 🛠️ Tecnologias & Ferramentas
 
